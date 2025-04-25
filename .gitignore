@@ -1,0 +1,33 @@
+Byte-compiled Python files
+
+pycache/
+*.py[cod]
+*$py.class
+
+Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+VS Code workspace settings
+
+.vscode/
+
+Environment variables
+
+.env
+.env.*
+
+Docker artifacts
+
+docker-compose.override.yml
+
+macOS files
+
+.DS_Store
+
+Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+
